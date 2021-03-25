@@ -1,0 +1,16 @@
+{
+  "name": "react-native-starter-template",
+  "version": "1.0.0",
+  "description": "A starter template with TS, Jest, Eslint, and Travis",
+  "main": "src/index.js",
+  "author": "Angela Li",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
